@@ -8,6 +8,7 @@ app = Flask(__name__)
 CORS(app)
 from flask import request
 import time
+from scripts.rundetection import rundetection
 # test()
 
 @app.route('/test')
@@ -19,7 +20,13 @@ def test():
     # with open('/Users/vaibhav/Rax/rax-gist-backend/api/summarizer/debugJSONObjects/test_results/medium_overview/NA_MEDIUM_OVERVIEW_SUMMARY.json', 'r') as f:
     # with open('/Users/vaibhav/Rax/rax-gist-backend/api/summarizer/debugJSONObjects/test_results/key_insights/Why Zoos & Aquariums Matter: Assessing the Impact of a Visit to a Zoo or Aquarium_key_insights.json', 'r') as f:
     #     x = json.loads(f.read())
-    return 'testdf'
+    import random
+    x = random.randint(1, 5)
+    try:
+        rundetection('/work/host-output','/work/host-input/testcases/' + str(x) + '.pdf')
+    except:
+        return 'error'
+    return 'done'
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=3268)
