@@ -14,7 +14,7 @@ from scripts.rundetection import rundetection
 @app.route('/test')
 def test():
     s1 = time.time()
-    print('---full--time--', time.time() - s1)
+    
     # with open('/Users/vaibhav/Rax/rax-gist-backend/api/summarizer/debugJSONObjects/test_results/tiny_overview/The Value of Zoo Experiences for Connecting People with Nature_TINY_OVERVIEW_SUMMARY.json', 'r') as f:
     # with open('/Users/vaibhav/Rax/rax-gist-backend/api/summarizer/debugJSONObjects/test_results/small_overview/NA_SMALL_OVERVIEW_SUMMARY.json', 'r') as f:
     # with open('/Users/vaibhav/Rax/rax-gist-backend/api/summarizer/debugJSONObjects/test_results/medium_overview/NA_MEDIUM_OVERVIEW_SUMMARY.json', 'r') as f:
@@ -22,10 +22,8 @@ def test():
     #     x = json.loads(f.read())
     import random
     x = random.randint(1, 5)
-    try:
-        rundetection('/work/host-output','/work/host-input/testcases/' + str(x) + '.pdf')
-    except:
-        return 'error'
+    rundetection('/work/host-output','/work/host-input/testcases/' + str(x) + '.pdf')
+    print('---full--time--', time.time() - s1)
     return 'done'
 
 if __name__ == '__main__':
