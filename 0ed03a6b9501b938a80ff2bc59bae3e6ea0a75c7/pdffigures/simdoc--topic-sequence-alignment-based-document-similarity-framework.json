@@ -1,0 +1,76 @@
+{
+  "figures": [{
+    "caption": "Table 1: Document similarity task",
+    "captionBoundary": {
+      "x1": 373.09100341796875,
+      "x2": 502.7720031738281,
+      "y1": 85.52435302734375,
+      "y2": 91.35699462890625
+    },
+    "figType": "Table",
+    "imageText": ["SimDoc", "72.69%", "Document", "embedding", "with", "paragraph", "vectors", "70.88%", "Okapi", "BM25", "over", "Bag", "Of", "Words", "59.08%", "Lucene", "index", "over", "Bag", "Of", "Word", "59.86%", "Jaccard", "index", "over", "Bag", "Of", "Word", "66.02%", "System", "Accuracy"],
+    "name": "1",
+    "page": 5,
+    "regionBoundary": {
+      "x1": 328.0,
+      "x2": 549.0,
+      "y1": 106.0,
+      "y2": 193.0
+    }
+  }, {
+    "caption": "Figure 1: SimDoc Architecture",
+    "captionBoundary": {
+      "x1": 247.10499572753906,
+      "x2": 364.89654541015625,
+      "y1": 298.1573486328125,
+      "y2": 303.989990234375
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "1",
+    "page": 3,
+    "regionBoundary": {
+      "x1": 53.0,
+      "x2": 559.0,
+      "y1": 83.0,
+      "y2": 285.0
+    }
+  }, {
+    "caption": "Table 2: Document Level Similarity Measure",
+    "captionBoundary": {
+      "x1": 352.2440185546875,
+      "x2": 523.6187744140625,
+      "y1": 85.52435302734375,
+      "y2": 91.35699462890625
+    },
+    "figType": "Table",
+    "imageText": ["Algorithm", "Used", "Accuracy", "SmithWaterman", "72.69%", "Root", "Mean", "Square", "Deviation", "69.56%", "Mean", "66.93%"],
+    "name": "2",
+    "page": 6,
+    "regionBoundary": {
+      "x1": 352.0,
+      "x2": 524.0,
+      "y1": 106.0,
+      "y2": 147.9449462890625
+    }
+  }, {
+    "caption": "Figure 2: Human-benchmarked Document-cluster based Accuracy Evaluation",
+    "captionBoundary": {
+      "x1": 65.16999816894531,
+      "x2": 282.99078369140625,
+      "y1": 599.4723510742188,
+      "y2": 627.2230224609375
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "2",
+    "page": 6,
+    "regionBoundary": {
+      "x1": 53.0,
+      "x2": 295.0,
+      "y1": 429.0,
+      "y2": 586.0
+    }
+  }],
+  "regionless-captions": []
+}
