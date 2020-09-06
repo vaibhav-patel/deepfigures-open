@@ -1,0 +1,328 @@
+{
+  "figures": [{
+    "caption": "Fig. 5. Seljuq bronze mace-head from Iran, 11th century. Furissiya Art Collection, Inv. No. R-87. (BASHir 2008, 232)",
+    "captionBoundary": {
+      "x1": 69.97509765625,
+      "x2": 281.522705078125,
+      "y1": 455.585205078125,
+      "y2": 471.1852111816406
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "5",
+    "page": 5,
+    "regionBoundary": {
+      "x1": 107.0,
+      "x2": 252.0,
+      "y1": 87.0469970703125,
+      "y2": 449.0469970703125
+    }
+  }, {
+    "caption": "Fig. 6. Seljuq bronze mace-head from Iran, 12th century. Furissiya Art Collection, Inv. No. R-91. (BASHir 2008, 234)",
+    "captionBoundary": {
+      "x1": 305.17840576171875,
+      "x2": 516.87060546875,
+      "y1": 455.585205078125,
+      "y2": 471.1852111816406
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "6",
+    "page": 5,
+    "regionBoundary": {
+      "x1": 357.0,
+      "x2": 465.0,
+      "y1": 83.0469970703125,
+      "y2": 446.0469970703125
+    }
+  }, {
+    "caption": "Fig. 13. 1–3: Mongolian warriors with maces. Jam al-tawarikh, Iran, Tebriz, 1306–1314 (University Library MS 20, Edinburgh). (nicolle 1999, 626p, 626y, 626ac)",
+    "captionBoundary": {
+      "x1": 78.90730285644531,
+      "x2": 490.85931396484375,
+      "y1": 671.2022094726562,
+      "y2": 686.8021850585938
+    },
+    "figType": "Figure",
+    "imageText": ["3", "1", "2"],
+    "name": "13",
+    "page": 10,
+    "regionBoundary": {
+      "x1": 56.0,
+      "x2": 514.0,
+      "y1": 89.0469970703125,
+      "y2": 671.2022094726562
+    }
+  }, {
+    "caption": "Fig. 18. Crusaders marching against Byzantium, 14th-century Italian manuscript, Bodleian Library, University of Oxford, Ms. Laud. Misc 587, fol. 1.",
+    "captionBoundary": {
+      "x1": 90.83159637451172,
+      "x2": 478.93133544921875,
+      "y1": 400.8302001953125,
+      "y2": 416.4302062988281
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "18",
+    "page": 14,
+    "regionBoundary": {
+      "x1": 170.0,
+      "x2": 400.0,
+      "y1": 87.0469970703125,
+      "y2": 394.0469970703125
+    }
+  }, {
+    "caption": "Fig. 1. 1–2: Iron mace-head, 13th century, Dunaföldvár–Ló-hegy (109/138). Inv. No. 01.30726.138.047",
+    "captionBoundary": {
+      "x1": 128.1186981201172,
+      "x2": 458.64910888671875,
+      "y1": 435.0766906738281,
+      "y2": 440.67669677734375
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "1",
+    "page": 1,
+    "regionBoundary": {
+      "x1": 65.0,
+      "x2": 517.0,
+      "y1": 87.0469970703125,
+      "y2": 429.0469970703125
+    }
+  }, {
+    "caption": "Fig. 8. Small symbolic or ceremonial bronze mace-head, Iran, 12–13th century. Museum of Islamic Art, Cairo, Inv. No. 15207. (nicolle 1999, 665)",
+    "captionBoundary": {
+      "x1": 300.00958251953125,
+      "x2": 505.0274963378906,
+      "y1": 453.4313049316406,
+      "y2": 479.03131103515625
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "8",
+    "page": 6,
+    "regionBoundary": {
+      "x1": 340.0,
+      "x2": 465.0,
+      "y1": 87.0469970703125,
+      "y2": 448.0469970703125
+    }
+  }, {
+    "caption": "Fig. 7. Seljuq bronze mace-head from Iran, 12–13th century. Furissiya Art Collection, Inv. No. R-85. (BASHir 2008, 231)",
+    "captionBoundary": {
+      "x1": 71.06680297851562,
+      "x2": 263.4229736328125,
+      "y1": 455.5965881347656,
+      "y2": 471.19659423828125
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "7",
+    "page": 6,
+    "regionBoundary": {
+      "x1": 113.0,
+      "x2": 222.0,
+      "y1": 96.0469970703125,
+      "y2": 416.0469970703125
+    }
+  }, {
+    "caption": "Fig. 12. 1–4: Mongolian court nobles with maces. 14th century, Iran, Tebriz, Diez Album fol. 70, S. 22, fol. 71, S. 49., fol. 70, S. 22, fol. 71, S. 54. (rüHrDAnz 2005, 288, 283, 288, 302)",
+    "captionBoundary": {
+      "x1": 65.50399780273438,
+      "x2": 521.2792358398438,
+      "y1": 626.67822265625,
+      "y2": 642.2781982421875
+    },
+    "figType": "Figure",
+    "imageText": ["3", "4", "1", "2"],
+    "name": "12",
+    "page": 9,
+    "regionBoundary": {
+      "x1": 66.0,
+      "x2": 520.0,
+      "y1": 88.0469970703125,
+      "y2": 605.0469970703125
+    }
+  }, {
+    "caption": "Fig. 16. Painted ceramic bowl, rider with mace, Antiochia, the beginnig of 13th century, The Metropolitan Museum of Art, New York, 1984. 181, (MAquire 1997, 401(268)).",
+    "captionBoundary": {
+      "x1": 69.08159637451172,
+      "x2": 517.68603515625,
+      "y1": 314.0894775390625,
+      "y2": 329.6894836425781
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "16",
+    "page": 13,
+    "regionBoundary": {
+      "x1": 119.0,
+      "x2": 468.0,
+      "y1": 88.0469970703125,
+      "y2": 307.0469970703125
+    }
+  }, {
+    "caption": "Fig. 17. Effigy of the Italian Knight Colaccio Beccadelli (?–1341), Imola, Convento dei Santi Niccolò e Domenico. (BocciA–coelHo 1973, 12)",
+    "captionBoundary": {
+      "x1": 108.69049835205078,
+      "x2": 478.1305236816406,
+      "y1": 612.1717529296875,
+      "y2": 627.771728515625
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "17",
+    "page": 13,
+    "regionBoundary": {
+      "x1": 131.0,
+      "x2": 455.0,
+      "y1": 364.0469970703125,
+      "y2": 607.0469970703125
+    }
+  }, {
+    "caption": "Fig. 15. 1–3: Maces with prismatic heads held by Muslim warriors in the battle scenes of the Histoire d’Outremer, around 1232–1261, (British Library Yates Thompson 12) f109v., f75, f29.",
+    "captionBoundary": {
+      "x1": 56.8916015625,
+      "x2": 512.8756103515625,
+      "y1": 576.0219116210938,
+      "y2": 591.6218872070312
+    },
+    "figType": "Figure",
+    "imageText": ["3", "1", "2"],
+    "name": "15",
+    "page": 12,
+    "regionBoundary": {
+      "x1": 64.34761047363281,
+      "x2": 492.0,
+      "y1": 87.0469970703125,
+      "y2": 571.0469970703125
+    }
+  }, {
+    "caption": "Fig. 10. Bronze mace-head, 11–12th century. Nishapur, Iran, Museum of Archaeology, Tehran. (nicolle 1999, 663)",
+    "captionBoundary": {
+      "x1": 306.77410888671875,
+      "x2": 515.2706909179688,
+      "y1": 444.48309326171875,
+      "y2": 460.0830993652344
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "10",
+    "page": 7,
+    "regionBoundary": {
+      "x1": 346.0,
+      "x2": 476.0,
+      "y1": 87.0469970703125,
+      "y2": 438.0469970703125
+    }
+  }, {
+    "caption": "Fig. 9. Bronze mace-head, Iran, 12–13th century. Rifaat Seikh al-Ard Private Collection. (nicolle 1999, 675)",
+    "captionBoundary": {
+      "x1": 65.57669830322266,
+      "x2": 285.9287109375,
+      "y1": 444.48309326171875,
+      "y2": 460.0830993652344
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "9",
+    "page": 7,
+    "regionBoundary": {
+      "x1": 118.0,
+      "x2": 234.0,
+      "y1": 87.0469970703125,
+      "y2": 438.0469970703125
+    }
+  }, {
+    "caption": "Fig. 2. Iron mace-head, 13th century. Armoury of the Hungarian National Museum. Inv. no. 54.2182. (KovácS S. 2010, 172)",
+    "captionBoundary": {
+      "x1": 94.28179931640625,
+      "x2": 492.48980712890625,
+      "y1": 467.3565979003906,
+      "y2": 472.95660400390625
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "2",
+    "page": 3,
+    "regionBoundary": {
+      "x1": 187.0,
+      "x2": 414.0,
+      "y1": 87.0469970703125,
+      "y2": 461.0469970703125
+    }
+  }, {
+    "caption": "Fig. 14. Mongolian guard with mace, Fatih Album, early 14th century, Azerbaijan, Topkapi Library MS MS. Haz. 2153 f. 148 v, Istanbul. (nicolle 1999, 631a)",
+    "captionBoundary": {
+      "x1": 73.73390197753906,
+      "x2": 513.0401000976562,
+      "y1": 378.3168029785156,
+      "y2": 393.91680908203125
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "14",
+    "page": 11,
+    "regionBoundary": {
+      "x1": 239.0,
+      "x2": 382.0,
+      "y1": 87.0469970703125,
+      "y2": 372.0469970703125
+    }
+  }, {
+    "caption": "Fig. 11. Mamluk macebearer on a silver bowl (the so-called “Baptistery of St. Louis”), 14th century (Louvre, LP. 16)",
+    "captionBoundary": {
+      "x1": 98.22019958496094,
+      "x2": 471.543212890625,
+      "y1": 471.9167785644531,
+      "y2": 477.51678466796875
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "11",
+    "page": 8,
+    "regionBoundary": {
+      "x1": 185.0,
+      "x2": 385.0,
+      "y1": 87.0469970703125,
+      "y2": 465.0469970703125
+    }
+  }, {
+    "caption": "Fig. 4. A coin of Rukn al-Din II. Suleiman, Seljuq Sultan of Rûm (1196–1201), a rider with a mace. British Museum, London, BMC 103. (roxBurGH 2005, 78)",
+    "captionBoundary": {
+      "x1": 64.9677963256836,
+      "x2": 504.80780029296875,
+      "y1": 686.8310546875,
+      "y2": 702.4310302734375
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "4",
+    "page": 4,
+    "regionBoundary": {
+      "x1": 174.0,
+      "x2": 396.0,
+      "y1": 427.0469970703125,
+      "y2": 661.0469970703125
+    }
+  }, {
+    "caption": "Fig. 3. Iron mace-head, 14th century, New Sarai. (ŚwiĘtoSŁAwSKi 1999, Pl. XVI. 1)",
+    "captionBoundary": {
+      "x1": 151.2602996826172,
+      "x2": 418.50079345703125,
+      "y1": 355.0365905761719,
+      "y2": 360.6365966796875
+    },
+    "figType": "Figure",
+    "imageText": [],
+    "name": "3",
+    "page": 4,
+    "regionBoundary": {
+      "x1": 96.0,
+      "x2": 474.0,
+      "y1": 87.0469970703125,
+      "y2": 348.0469970703125
+    }
+  }],
+  "regionless-captions": []
+}
